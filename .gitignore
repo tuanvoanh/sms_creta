@@ -1,0 +1,32 @@
+# Editors
+\.idea/
+
+# Dependency directory
+node_modules
+
+
+# API keys and secrets
+.env
+
+# Ignore built ts files
+dist
+
+# Coverage reports
+coverage
+
+# Public directory
+public
+
+package-lock.json
+local.yml
+builds
+cache
+.cache
+*.toml
+*.log
+*.exe
+*.deb
+*.rpm
+*.pkg
+*.dll
+/certificates/credential_google_sheet.json
